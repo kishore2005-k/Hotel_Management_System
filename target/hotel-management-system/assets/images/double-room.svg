@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Illustration of a comfortable double guest room</title>
+  <desc id="desc">A double bed with two pillows in a peaceful lodge room with a mountain view.</desc>
+  <defs>
+    <linearGradient id="wall" x2="0" y2="1">
+      <stop stop-color="#e7e9dd"/>
+      <stop offset="1" stop-color="#d5d7c7"/>
+    </linearGradient>
+    <linearGradient id="window" x2="0" y2="1">
+      <stop stop-color="#bfd9df"/>
+      <stop offset="1" stop-color="#f5dcae"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="440" fill="url(#wall)"/>
+  <path d="M0 330h720v110H0z" fill="#8c694d"/>
+  <rect x="455" y="64" width="201" height="198" rx="13" fill="#765b44"/>
+  <rect x="469" y="78" width="173" height="170" rx="6" fill="url(#window)"/>
+  <path d="m469 211 49-67 38 42 34-64 52 92v34H469z" fill="#718272"/>
+  <path d="M484 218h145v30H484z" fill="#4e6757"/>
+  <path d="M555 78v170m-86-87h173" stroke="#765b44" stroke-width="9"/>
+  <path d="M84 268h458v101H84z" fill="#6f513e"/>
+  <path d="M99 238h123c16 0 28 13 28 28v33H99z" fill="#faf4e7"/>
+  <path d="M248 238h123c16 0 28 13 28 28v33H248z" fill="#faf4e7"/>
+  <path d="M99 291h407v70H99z" fill="#8da08c"/>
+  <path d="M99 329h407v32H99z" fill="#60755f"/>
+  <path d="M84 355h458v27H84z" fill="#543e31"/>
+  <path d="M112 382h20v36h-20zm380 0h20v36h-20z" fill="#44352b"/>
+  <path d="M30 210h21v112H30z" fill="#a47e51"/>
+  <path d="M17 204h47l-24-62z" fill="#e7c985"/>
+  <path d="M548 273h116v10H548z" fill="#765b44"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e8c88f"/><stop offset="1" stop-color="#a65e39"/></linearGradient>
+    <linearGradient id="plate" x2=".9" y2="1"><stop stop-color="#fff9e9"/><stop offset="1" stop-color="#ddd0b6"/></linearGradient>
+    <radialGradient id="dosa"><stop stop-color="#f6d783"/><stop offset=".76" stop-color="#c98538"/><stop offset="1" stop-color="#94552c"/></radialGradient>
+  </defs>
+  <rect width="320" height="200" fill="url(#bg)"/>
+  <path d="M0 34h320M0 168h320" stroke="#fff2ce" stroke-opacity=".16" stroke-width="3"/>
+  <ellipse cx="157" cy="112" rx="112" ry="73" fill="#352820" opacity=".25"/>
+  <ellipse cx="151" cy="102" rx="112" ry="75" fill="url(#plate)"/>
+  <ellipse cx="151" cy="101" rx="91" ry="57" fill="#c5aa7a"/>
+  <path d="M91 119c5-39 36-63 72-59 29 3 46 24 48 51-25 9-56 19-84 28-17-1-29-7-36-20Z" fill="url(#dosa)"/>
+  <path d="M107 110c12-24 34-37 57-38 15 1 27 8 34 20-25 5-53 19-78 31-7-2-11-6-13-13Z" fill="#f4ce73"/>
+  <circle cx="229" cy="88" r="21" fill="#bd5e3b"/><circle cx="229" cy="88" r="14" fill="#f2c273"/>
+  <ellipse cx="83" cy="71" rx="15" ry="10" fill="#81a252" transform="rotate(-32 83 71)"/>
+  <path d="M250 132c17-8 31-4 38 9-15 17-31 18-43 7Z" fill="#54824b"/>
+  <circle cx="116" cy="77" r="4" fill="#fbf1d7"/><circle cx="132" cy="70" r="3" fill="#fbf1d7"/>
+</svg>

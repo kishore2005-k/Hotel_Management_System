@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
+  <title id="title">Illustration of a cozy single guest room</title>
+  <desc id="desc">A single bed in a warm lodge room with a forest view.</desc>
+  <defs>
+    <linearGradient id="wall" x2="0" y2="1">
+      <stop stop-color="#f1e7d6"/>
+      <stop offset="1" stop-color="#dfcfb7"/>
+    </linearGradient>
+    <linearGradient id="window" x2="0" y2="1">
+      <stop stop-color="#c5e0dc"/>
+      <stop offset="1" stop-color="#f2dcaa"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="440" fill="url(#wall)"/>
+  <path d="M0 328h720v112H0z" fill="#997456"/>
+  <path d="M465 70h188v194H465z" rx="12" fill="#765b44"/>
+  <rect x="478" y="83" width="162" height="168" rx="5" fill="url(#window)"/>
+  <path d="m478 225 47-83 39 53 29-42 47 72z" fill="#668169"/>
+  <path d="M492 222h135v29H492z" fill="#496754"/>
+  <path d="M554 83v168m-76-82h162" stroke="#765b44" stroke-width="9"/>
+  <path d="M70 278h437v90H70z" rx="12" fill="#755440"/>
+  <path d="M83 245h84c18 0 32 14 32 32v38H83z" fill="#f8f1e5"/>
+  <path d="M199 260h287v102H199z" fill="#a6b8a1"/>
+  <path d="M199 319h287v43H199z" fill="#71866e"/>
+  <path d="M70 350h437v28H70z" fill="#5b4132"/>
+  <path d="M101 378h18v37h-18zm359 0h18v37h-18z" fill="#49382e"/>
+  <path d="M45 210h20v114H45z" fill="#a47e51"/>
+  <path d="M32 204h47l-24-62z" fill="#e7c985"/>
+  <path d="M563 270h94v10h-94z" fill="#765b44"/>
+</svg>

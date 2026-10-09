@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#d6bd8c"/><stop offset="1" stop-color="#756347"/></linearGradient>
+    <linearGradient id="plate" x2=".8" y2="1"><stop stop-color="#fff9e9"/><stop offset="1" stop-color="#dbccb0"/></linearGradient>
+    <linearGradient id="bread" x2=".8" y2="1"><stop stop-color="#f5d891"/><stop offset="1" stop-color="#ba7b3e"/></linearGradient>
+  </defs>
+  <rect width="320" height="200" fill="url(#bg)"/>
+  <ellipse cx="159" cy="120" rx="111" ry="63" fill="#30271e" opacity=".25"/>
+  <ellipse cx="155" cy="108" rx="111" ry="67" fill="url(#plate)"/>
+  <ellipse cx="155" cy="106" rx="91" ry="48" fill="#9c7847"/>
+  <path d="M82 110c7-19 22-28 42-24 18 4 26 18 22 39-9 12-22 17-39 12-18-5-27-14-25-27Z" fill="url(#bread)"/>
+  <path d="M129 88c13-17 28-20 45-11 15 9 18 23 9 41-15 9-29 9-42-1-13-9-17-19-12-29Z" fill="#e6c475"/>
+  <path d="M178 109c4-20 17-30 36-29 20 1 30 12 30 32-9 15-22 21-40 17-17-4-26-10-26-20Z" fill="#c78d4b"/>
+  <path d="m96 97 19 19m37-29 14 19m61-9-22 24" stroke="#a65f32" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+  <circle cx="77" cy="66" r="14" fill="#789052"/><circle cx="77" cy="66" r="9" fill="#eee0b5"/>
+  <ellipse cx="238" cy="68" rx="15" ry="8" fill="#72924c" transform="rotate(-30 238 68)"/>
+  <circle cx="258" cy="139" r="4" fill="#fbefcf"/>
+</svg>
